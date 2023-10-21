@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a postgraduate student at Bandung Institute of Technology (ITB) majoring in Informatics (Computer Science), where my focus lies in studying intelligent systems. My interests and research include Machine Learning, Image Processing and Natural Language Processing
 
 <!--
 **irfannugraha/irfannugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
